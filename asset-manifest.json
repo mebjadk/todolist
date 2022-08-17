@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mebjadk/todolist.git/static/css/main.a891ce98.css",
+    "main.js": "/mebjadk/todolist.git/static/js/main.00958092.js",
+    "index.html": "/mebjadk/todolist.git/index.html",
+    "main.a891ce98.css.map": "/mebjadk/todolist.git/static/css/main.a891ce98.css.map",
+    "main.00958092.js.map": "/mebjadk/todolist.git/static/js/main.00958092.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a891ce98.css",
+    "static/js/main.00958092.js"
+  ]
+}
